@@ -13,7 +13,7 @@ repositories {
 dependencies {
     implementation(kotlin("stdlib"))
     testImplementation(kotlin("test"))
-    implementation("org.apache.commons:commons-rng-simple:1.5")
+    implementation("org.apache.commons:commons-rng-simple:1.6")
 }
 
 java {
